@@ -37,10 +37,10 @@ const Hero = () => {
                   color="heading"
                   mb="40px"
                 >
-                  DEVELOPER FROM CALIFORNIA 💪
+                  DEVELOPER FROM NORTH CAROLINA 💪
                 </Text>
                 <Title>
-                  Full stack web developer
+                  Full stack web developer and mobile developer
                   <br />
                   for your next project
                 </Title>
