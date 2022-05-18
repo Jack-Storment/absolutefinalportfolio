@@ -30,11 +30,11 @@ const Hero = () => {
                 >
                   <div className="d-flex flex-column flex-lg-row justify-content-center">
                     <LinkContact
-                      href="mailto:contact@folio.design"
+                      href="mailto:stormentjd@gmail.com"
                       target="_blank"
                       className="mb-2 mb-lg-0"
                     >
-                      contact@folio.design
+                      stormentjd@gmail.com
                     </LinkContact>
                     <span className="divider mx-2 mx-lg-4 d-none d-lg-block">
                       |

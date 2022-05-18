@@ -38,20 +38,20 @@ const Contact = () => {
                 >
                   <div className="d-flex flex-column flex-lg-row justify-content-center">
                     <LinkContact
-                      href="mailto:contact@folio.design"
+                      href="mailto:stormentjd@gmail.com"
                       target="_blank"
                       className="mb-2 mb-lg-0"
                     >
-                      contact@folio.design
+                      stormentjd@gmail.com
                     </LinkContact>
                     <span className="divider mx-2 mx-lg-4 d-none d-lg-block">
                       |
                     </span>
                     <LinkContact
-                      href="https://www.linkedin.com/folio"
+                      href="https://www.linkedin.com/in/jack-storment-1b4347198/"
                       target="_blank"
                     >
-                      linkedin.com/folio
+                      linkedin
                     </LinkContact>
                   </div>
                 </Box>
