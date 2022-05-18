@@ -40,7 +40,7 @@ const Hero = () => {
                   font-weight: 400;
                 `}
               >
-                Best digital design agency in New York ⚡
+                Best web design agency in North Carolina ⚡
               </Title>
 
               <Title color="light" variant="hero" mb="3.75rem">

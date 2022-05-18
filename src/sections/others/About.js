@@ -42,7 +42,7 @@ const About = ({ hero = true, bg = "dark", ...rest }) => {
                     line-height: 1.5;
                   `}
                 >
-                  UX Designer based in New York, USA. I am designing with a
+                  Full-stack software engineer based in North Carolina. I am designing with a
                   minimal and beautiful design in mind.
                 </Text>
                 <Text color="light" className="mt-4">
@@ -71,36 +71,12 @@ const About = ({ hero = true, bg = "dark", ...rest }) => {
                 </Text>
                 <div className="mt-5 d-flex">
                   <LinkSocial
-                    href="https://www.dribbble.com"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="mr-3"
-                  >
-                    Dribble
-                  </LinkSocial>
-                  <LinkSocial
-                    href="https://www.twitter.com"
+                    href="https://www.twitter.com/SirStorment"
                     target="_blank"
                     rel="noopener noreferrer"
                     className=" mr-3"
                   >
                     Twitter
-                  </LinkSocial>
-                  <LinkSocial
-                    href="https://www.facebook.com"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="mr-3"
-                  >
-                    Facebook
-                  </LinkSocial>
-                  <LinkSocial
-                    href="https://www.instagram.com"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="font-weight-bold"
-                  >
-                    Instagram
                   </LinkSocial>
                 </div>
               </div>
