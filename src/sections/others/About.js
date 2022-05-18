@@ -53,10 +53,10 @@ const About = ({ hero = true, bg = "dark", ...rest }) => {
 
                   <Text variant="p">
                     <a
-                      href="mailto:hello@folio.com"
+                      href="mailto:stormentjd@gmail.com"
                       className="font-weight-bold"
                     >
-                      <Span color="light">hello@folio.com</Span>
+                      <Span color="light">stormentjd@gmail.com</Span>
                     </a>
                   </Text>
                 </div>
@@ -77,6 +77,22 @@ const About = ({ hero = true, bg = "dark", ...rest }) => {
                     className=" mr-3"
                   >
                     Twitter
+                  </LinkSocial>
+                  <LinkSocial
+                    href="https://www.linkedin.com/in/jack-storment-1b4347198/"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className=" mr-3"
+                  >
+                    Linkedin
+                  </LinkSocial>
+                  <LinkSocial
+                    href="https://github.com/Jack-Storment"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className=" mr-3"
+                  >
+                    GitHub
                   </LinkSocial>
                 </div>
               </div>
