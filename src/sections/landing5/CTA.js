@@ -29,8 +29,7 @@ const Hero = () => {
             <Col lg="11" xl="10">
               <div className="text-center mb-5">
                 <Title color="light" variant="secSm">
-                  We are taking new projects. Waiting to hearing from you, so if
-                  you'd like to chat please get in touch.
+                  We are taking new projects. If you'd like to chat, please get in touch.
                 </Title>
               </div>
               <div className="text-center">

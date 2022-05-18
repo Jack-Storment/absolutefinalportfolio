@@ -21,8 +21,7 @@ const Hero = () => {
             <Col lg="11" xl="10" className="text-center">
               <Box>
                 <Title variant="secSm">
-                  I am taking new projects. Waiting to hearing about new
-                  projects, so if you'd like to chat please get in touch.
+                  I am taking new projects. If you'd like to chat, please get in touch.
                 </Title>
 
                 <Box
