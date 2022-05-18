@@ -28,10 +28,10 @@ const Hero = () => {
                   color="heading"
                   mb="40px"
                 >
-                  ILLUSTRATOR, GRAPHIC DESIGNER, TRAVELER
+                  Full-Stack Software Engineer
                 </Text>
                 <Title variant="hero">
-                  I design digital crafts for clients.
+                  Jack Storment
                 </Title>
 
                 <Box mt="52px">
