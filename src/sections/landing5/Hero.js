@@ -54,7 +54,7 @@ const Hero = () => {
                 duration={1000}
               >
                 <Button variant="success" arrowRight>
-                  Explore works
+                  Explore his work
                 </Button>
               </Link>
             </Box>
