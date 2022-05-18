@@ -37,7 +37,7 @@ const Hero = () => {
               <Box pt={5}>
                 <Availability mb="2.5rem" className="justify-content-start" />
                 <Title variant="hero">
-                  I design digital crafts for clients.
+                  Jack Storment
                 </Title>
 
                 <Box mt="52px">
