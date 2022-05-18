@@ -53,7 +53,7 @@ const Hero = () => {
                 letter-spacing: 1.63px;
               `}
             >
-              HI, I AM BRUCE RYAN
+              Hi, I'm Jack Storment
             </Title>
             <Title>
               Full Stack UX Designer <br /> who loves nature!

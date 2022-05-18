@@ -33,7 +33,7 @@ const About = ({ hero = true, bg = "dark", ...rest }) => {
             <Col lg="6">
               <div className="pl-lg-4 pt-5 pt-lg-0">
                 <Title color="light" variant="secSm">
-                  Bruce Ryan
+                  Jack Storment
                 </Title>
                 <Text
                   color="light"
@@ -64,10 +64,10 @@ const About = ({ hero = true, bg = "dark", ...rest }) => {
                   <img src={imgSignLight} alt="sign" className="img-fluid" />
                 </div>
                 <Text color="light" className="mt-3 font-weight-bold">
-                  Bruce Ryan
+                  Jack Storment
                 </Text>
                 <Text color="light" variant="small">
-                  Founder of Folio Digital
+                  Co-founder of Triangle Web Solutions
                 </Text>
                 <div className="mt-5 d-flex">
                   <LinkSocial
