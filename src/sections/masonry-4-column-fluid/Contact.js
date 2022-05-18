@@ -1,6 +1,7 @@
-import React from "react";
+import {React, iframe} from "react";
 import styled from "styled-components";
 import { Container, Row, Col } from "react-bootstrap";
+import iframe from 'react-iframe';
 
 import { Section, Box, Title, Text, ButtonIcon } from "../../components/Core";
 import Availability from "../../components/Availability";
@@ -18,6 +19,9 @@ const Hero = () => {
               </div>
               <div className="text-center">
                 <ButtonIcon>Let's Talk Now</ButtonIcon>
+              </div>
+              <div>
+              <iframe src="https://jackstorment.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
               </div>
             </Col>
           </Row>
