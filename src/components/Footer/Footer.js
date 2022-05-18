@@ -24,7 +24,7 @@ const Footer = ({ isDark = true }) => {
               `}
               className="text-uppercase"
             >
-              © 2022 All right reseved
+              © 2022 Jack Storment
             </Title>
           </div>
         </Container>
