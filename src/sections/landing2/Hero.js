@@ -56,7 +56,7 @@ const Hero = () => {
               Hi, I'm Jack Storment
             </Title>
             <Title>
-              Full Stack UX Designer <br /> who loves nature!
+              Full Stack Software Engineer <br /> who loves nature!
             </Title>
           </Box>
         </Container>

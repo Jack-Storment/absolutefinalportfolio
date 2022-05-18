@@ -67,7 +67,7 @@ const About = ({ hero = true, bg = "dark", ...rest }) => {
                   Jack Storment
                 </Text>
                 <Text color="light" variant="small">
-                  Co-founder of Triangle Web Solutions
+                  Full-Stack Software Engineer at Ivee
                 </Text>
                 <div className="mt-5 d-flex">
                   <LinkSocial
