@@ -1,11 +1,10 @@
-import React, { useContext, iframe } from "react";
+import React, { useContext } from "react";
 import styled from "styled-components";
 import { Container, Row, Col } from "react-bootstrap";
 
 import GlobalContext from "../../context/GlobalContext";
 import { Section, Box, Title, Text, ButtonIcon } from "../../components/Core";
 import Availability from "../../components/Availability";
-import iframe from 'react-iframe';
 
 const CTA = () => {
   const gContext = useContext(GlobalContext);
@@ -28,9 +27,6 @@ const CTA = () => {
                 >
                   Let's Talk Now
                 </ButtonIcon>
-              </div>
-              <div>
-              <iframe src="https://jackstorment.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>  
               </div>
             </Col>
           </Row>
