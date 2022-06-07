@@ -31,9 +31,9 @@ const WorkSingle = () => {
           <Container>
             <Row>
               <Col lg="8">
-                <Text variant="tag">BRANDING</Text>
+                <Text variant="tag">React Native app</Text>
                 <Title variant="secSm" className="my-4">
-                  Adaptable but Identifiable Product for Kandinsky.{" "}
+                Personalizing the Passenger Experience.{" "}
                 </Title>
                 <Text
                   variant="p"
@@ -41,13 +41,7 @@ const WorkSingle = () => {
                     max-width: 750px;
                   `}
                 >
-                  To satisfy our goal of creating a brand that could adapt
-                  across many use cases, we took the base form of their new logo
-                  and used it as an artboard. As long as the structural outline
-                  of the mark stayed consistent their brand was allowed to flex
-                  and adapt to specific uses. And by introducing these
-                  illustrative elements to the logomark, Strictly found it’s
-                  voice.
+               With 82,000,000,000 minutes per year spent in ride-hailing vehicles, rides should be more than just about getting from point A to point B. Ivee is creating personalized passenger experiences that make a ride as relaxing as a spa, as productive as your office, or as entertaining as a home theater.
                 </Text>
               </Col>
             </Row>
@@ -59,17 +53,17 @@ const WorkSingle = () => {
               <Col lg="4" className="mb-4 mb-lg-0">
                 <Text variant="tag">Client</Text>
                 <Title variant="cardBig" className="mt-3">
-                  Shopper
+                  Ivee
                 </Title>
               </Col>
               <Col lg="4" className="mb-4 mb-lg-0">
                 <Text variant="tag">Time</Text>
                 <Title variant="cardBig" className="mt-3">
-                  Apr 14, 2020
+                  June 1, 2020 - Present
                 </Title>
               </Col>
               <Col lg="4">
-                <Button arrowRight>Live work</Button>
+                <Button onclick="location.href='https://goivee.com/'';" arrowRight>Website</Button>
               </Col>
             </Row>
           </Container>

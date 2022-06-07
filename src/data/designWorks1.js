@@ -15,10 +15,10 @@ import imgT14 from "../assets/image/jpg/agency/masonry/portfolio-mas-13.jpg";
 
 export const designWorks1 = [
   {
-    brand: `Perfumed`,
-    slug: `perfumed`,
-    title: `Adaptable but Identifiable Product for Kandinsky.`,
-    categories: ["web"],
+    brand: `Ivee`,
+    slug: `ivee-app`,
+    title: `Personalizing the Passenger Experience.`,
+    categories: ["React Native"],
     thumbnail: imgT1,
   link : "/portfolio-details"
 },

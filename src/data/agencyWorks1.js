@@ -10,10 +10,10 @@ import imgT9 from "../assets/image/jpg/agency/regular/portfolio-1.jpg";
 
 export const agencyWorks1 = [
   {
-    brand: `Perfumed App`,
-    slug: `perfumed-app`,
-    title: `Adaptable but Identifiable Product for Kandinsky.`,
-    categories: [`web`],
+    brand: `Ivee`,
+    slug: `ivee-app`,
+    title: `Personalizing the Passenger Experience.`,
+    categories: [`React Native`],
     thumbnail: imgT1,
   link : "/portfolio-details"
 },
