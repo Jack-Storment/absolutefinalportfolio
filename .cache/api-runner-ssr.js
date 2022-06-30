@@ -1,11 +1,11 @@
 var plugins = [{
-      plugin: require('/Users/jack/Desktop/Desktop - Jack’s MacBook Pro/absolutefinalportfolio/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
+      plugin: require('/Users/jackstorment/Desktop/absolutefinalportfolio/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
       options: {"plugins":[]},
     },{
-      plugin: require('/Users/jack/Desktop/Desktop - Jack’s MacBook Pro/absolutefinalportfolio/node_modules/gatsby-plugin-styled-components/gatsby-ssr'),
+      plugin: require('/Users/jackstorment/Desktop/absolutefinalportfolio/node_modules/gatsby-plugin-styled-components/gatsby-ssr'),
       options: {"plugins":[],"displayName":true,"fileName":true,"minify":true,"namespace":"","transpileTemplateLiterals":true,"pure":false},
     },{
-      plugin: require('/Users/jack/Desktop/Desktop - Jack’s MacBook Pro/absolutefinalportfolio/gatsby-ssr'),
+      plugin: require('/Users/jackstorment/Desktop/absolutefinalportfolio/gatsby-ssr'),
       options: {"plugins":[]},
     }]
 // During bootstrap, we write requires at top of this file which looks like:

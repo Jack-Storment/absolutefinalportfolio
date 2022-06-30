@@ -97,11 +97,7 @@ const WorkSingle = () => {
                   01. Basics
                 </Title>
                 <Text variant="p">
-                  To satisfy our goal of creating a brand that could adapt
-                  across many use cases, we took the base form of their new logo
-                  and used it as an artboard. As long as the structural outline
-                  of the mark stayed consistent their brand was allowed to flex
-                  and adapt to specific uses.
+                  To satisfy our goal of creating an infotainment system in Ubers and Lyfts we had to think outside the box from the normal competitors like Octopus. The other competition had games but they did not have an immersive music, spa and theatre like experience.
                 </Text>
               </Col>
               <Col lg="6" className="mb-5 pl-lg-5">
