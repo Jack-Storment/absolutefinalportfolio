@@ -113,11 +113,7 @@ const WorkSingle = () => {
                   03. Problems
                 </Title>
                 <Text variant="p">
-                  To satisfy our goal of creating a brand that could adapt
-                  across many use cases, we took the base form of their new logo
-                  and used it as an artboard. As long as the structural outline
-                  of the mark stayed consistent their brand was allowed to flex
-                  and adapt to specific uses.
+                  The main problem we ran into was scale. We had a little over a hundred tablets out in the field in LA, Miami and Chicago but it was hard to get the venture capital funding necessary for achieving scale.
                 </Text>
               </Col>
               <Col lg="6" className="mb-5 pl-lg-5">
@@ -125,9 +121,8 @@ const WorkSingle = () => {
                   04. Solutions
                 </Title>
                 <Text variant="p">
-                  To satisfy our goal of creating a brand that could adapt
-                  across many use cases, we took the base form of their new logo
-                  and used it as an artboard. As long as the structural outline
+                To satisfy our goal of creating a brand that could adapt
+                  across many use cases, we took the base design and applied it to different modes like Learn mode, Relax mode, Watch mode, etc. to offer a satisfying UI/UX that would set us apart from competitors. As long as the structural outline
                   of the mark stayed consistent their brand was allowed to flex
                   and adapt to specific uses.
                 </Text>
