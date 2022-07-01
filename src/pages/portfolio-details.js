@@ -105,9 +105,7 @@ const WorkSingle = () => {
                   02. Goals
                 </Title>
                 <Text variant="p">
-                  To satisfy our goal of creating a brand that could adapt
-                  across many use cases, we took the base form of their new logo
-                  and used it as an artboard.
+                  The goal of Ivee ultimately is to provide better rides for people and the planet by offering passengers in ride-hailing vehicles a personalized passenger experiences that make a ride as relaxing as a spa, as productive as your office, or as entertaining as a home theater. Ivee partners with electric vehicles and offers an extra $100 per month on 40 hours of driving, or $2.50 for every hour of driving.
                 </Text>
               </Col>
               <Col lg="6" className="mb-5 pr-lg-5">
