@@ -121,7 +121,7 @@ const WorkSingle = () => {
                   04. Solutions
                 </Title>
                 <Text variant="p">
-                To satisfy our goal of creating a brand that could adapt
+                  To satisfy our goal of creating a brand that could adapt
                   across many use cases, we took the base design and applied it to different modes like Learn mode, Relax mode, Watch mode, etc. to offer a satisfying UI/UX that would set us apart from competitors. As long as the structural outline
                   of the mark stayed consistent their brand was allowed to flex
                   and adapt to specific uses.
