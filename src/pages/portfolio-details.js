@@ -97,7 +97,7 @@ const WorkSingle = () => {
                   01. Basics
                 </Title>
                 <Text variant="p">
-                  To satisfy our goal of creating an infotainment system in Ubers and Lyfts we had to think outside the box from the normal competitors like Octopus. The other competition had games but they did not have an immersive music, spa and theatre like experience.
+                  To satisfy our goal of creating an infotainment system in Uber and Lyft we had to think outside the box from the normal competitors like Octopus. The other competition had games but they did not have an immersive music, spa and theatre like experience.
                 </Text>
               </Col>
               <Col lg="6" className="mb-5 pl-lg-5">
@@ -113,7 +113,7 @@ const WorkSingle = () => {
                   03. Problems
                 </Title>
                 <Text variant="p">
-                  The main problem we ran into was scale. We had a little over a hundred tablets out in the field in LA, Miami and Chicago but it was hard to get the venture capital funding necessary for achieving scale.
+                  The main problem we ran into was scale. Ivee has a little over a hundred tablets out in the field in LA, Miami and Chicago but it was hard to get the venture capital funding necessary for achieving scale.
                 </Text>
               </Col>
               <Col lg="6" className="mb-5 pl-lg-5">
