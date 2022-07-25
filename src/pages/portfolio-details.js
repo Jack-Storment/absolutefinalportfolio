@@ -163,7 +163,7 @@ const WorkSingle = () => {
                     }
                 `}
                 >
-                  Replace
+                  //Replace
                 </Button>
               </Link>
             </div>
