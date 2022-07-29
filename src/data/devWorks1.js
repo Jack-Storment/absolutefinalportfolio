@@ -38,7 +38,7 @@ export const devWorks1 = [
     title: `Adaptable but Identifiable Product for Kandinsky.`,
     categories: [`app`, `ui-design`, `web`],
     thumbnail: imgT4,
-  link : "/portfolio-details"
+  link : "/portfolio-details-2"
 },
   {
     brand: `Travel App`,

@@ -38,7 +38,7 @@ export const masonryWorks1 = [
     title: `Adaptable but Identifiable Product for Kandinsky.`,
     categories: [`photography`, `ux-design`, `branding`],
     thumbnail: imgT4,
-  link : "/portfolio-details"
+  link : "/portfolio-details-2"
 },
   {
     brand: `Travel App`,

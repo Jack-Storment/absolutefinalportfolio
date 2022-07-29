@@ -44,7 +44,7 @@ export const designWorks1 = [
     title: `Adaptable but Identifiable Product for Kandinsky.`,
     categories: [`branding`],
     thumbnail: imgT4,
-  link : "/portfolio-details"
+  link : "/portfolio-details-2"
 },
   {
     brand: `Travel App`,
@@ -116,7 +116,7 @@ export const designWorks1 = [
     title: `Adaptable but Identifiable Product for Kandinsky.`,
     categories: [`ux-design`],
     thumbnail: imgT13,
-  link : "/portfolio-details"
+  link : "/portfolio-details-2"
 },
   {
     brand: `Caffee Roast`,

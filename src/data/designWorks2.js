@@ -42,7 +42,7 @@ export const designWorks2 = [
     categories: [`branding`],
     thumbnail: imgT4,
     halfWidth: true,
-  link : "/portfolio-details"
+  link : "/portfolio-details-2"
 },
   {
     brand: `Travel App`,

@@ -5,7 +5,7 @@ import { Container, Row, Col } from "react-bootstrap";
 import { Section, Button, Title, Text, Box } from "../components/Core";
 import PageWrapper from "../components/PageWrapper";
 import CTA from "../sections/common/CTA";
-import imgWorkCover from "../assets/image/jpg/details/details-2.jpg";
+import imgWorkCover from "../assets/image/jpg/details/details-42.jpg";
 import imgS1 from "../assets/image/jpg/details/details-12.jpg";
 import imgS2 from "../assets/image/jpg/details/details-11.jpg";
 import imgS3 from "../assets/image/jpg/details/details-10.jpg";
@@ -23,9 +23,9 @@ const WorkSingle = () => {
             <Row className="justify-content-center text-center">
               <Col lg="8">
                 <Box>
-                  <Text variant="tag">BRANDING</Text>
+                  <Text variant="tag">Trinagle Web Solutions</Text>
                   <Title className="my-4">
-                    Complete Branding <br /> Solution for DataTryper.
+                    Highcraft Craft Beer Market <br /> Downtown Apex.
                   </Title>
                   <Text
                     variant="p"
@@ -33,11 +33,7 @@ const WorkSingle = () => {
                       max-width: 750px;
                     `}
                   >
-                    To satisfy our goal of creating a brand that could adapt
-                    across many use cases, we took the base form of their new
-                    logo and used it as an artboard. As long as the structural
-                    outline of the mark stayed consistent their brand was
-                    allowed to.
+                  Highcraft is passionate about bringing y'all the best quality craft beer on the market. Highcraft offers the best beer in North Carolina and arguably the entire world 🌎. Whether it is local beer like Raleigh Brewing Company or New Belgium and Sierra Nevada from Asheville! Their goal is to truly empower the communities that bring amazing beer to you.
                   </Text>
                 </Box>
               </Col>
@@ -55,17 +51,18 @@ const WorkSingle = () => {
               <Col lg="4" className="mb-4 mb-lg-0">
                 <Text variant="tag">Client</Text>
                 <Title variant="cardBig" className="mt-3">
-                  DataTryper
+                  Highcraft Downtown Apex
                 </Title>
               </Col>
               <Col lg="4" className="mb-4 mb-lg-0">
                 <Text variant="tag">Time</Text>
                 <Title variant="cardBig" className="mt-3">
-                  Oct 15, 2019
+                  Oct 15, 2021
                 </Title>
               </Col>
               <Col lg="4" className="d-flex justify-content-lg-end">
                 <Button arrowRight>Live work</Button>
+                <Link to="https://wwww.highcraftapex.com"></Link>
               </Col>
             </Row>
           </Container>

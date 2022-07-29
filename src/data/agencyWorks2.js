@@ -76,7 +76,7 @@ export const agencyWorks2 = [
     title: `Adaptable but Identifiable Product for Kandinsky.`,
     categories: [`branding`],
     thumbnail: imgT4,
-  link : "/portfolio-details"
+  link : "/portfolio-details-2"
 },
 
   {
@@ -118,7 +118,7 @@ export const agencyWorks2 = [
     title: `Adaptable but Identifiable Product for Kandinsky.`,
     categories: [`ux-design`],
     thumbnail: imgT13,
-  link : "/portfolio-details"
+  link : "/portfolio-details-2"
 },
   {
     brand: `Caffee Roast`,
