@@ -33,7 +33,7 @@ export const masonryWorks1 = [
   link : "/portfolio-details"
 },
   {
-    brand: `Candy Store`,
+    brand: `Highcraft`,
     slug: `candy-store`,
     title: `Adaptable but Identifiable Product for Kandinsky.`,
     categories: [`photography`, `ux-design`, `branding`],

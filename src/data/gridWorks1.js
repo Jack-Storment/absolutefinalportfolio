@@ -33,10 +33,10 @@ export const gridWorks1 = [
   link : "/portfolio-details"
 },
   {
-    brand: `Candy Store`,
+    brand: `Highcraft`,
     slug: `candy-store`,
     title: `Adaptable but Identifiable Product for Kandinsky.`,
-    categories: [`branding`],
+    categories: [`React`],
     thumbnail: imgT4,
   link : "/portfolio-details-2"
 },
